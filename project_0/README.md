@@ -14,7 +14,7 @@
 [5. Выводы](https://github.com/khe-khe/data_student/blob/main/project_0/README.md#%D0%B2%D1%8B%D0%B2%D0%BE%D0%B4%D1%8B)
 
 ### Описание проекта
-Угадать загаданное компьютером число за минимальное число попыток.
+Угадать загаданное компьютером число за минимальное число попыток
 
 :arrow_up:[К оглавлению](https://github.com/khe-khe/data_student/blob/main/project_0/README.md#%D0%BE%D0%B3%D0%BB%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
